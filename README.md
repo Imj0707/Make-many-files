@@ -1,4 +1,4 @@
-# Make-many-files
+H# Make-many-files
 Make many files with python code
  한국어
 그냥 간단하게 파이썬을 이용한 코드로
@@ -12,3 +12,7 @@ It looks useless, but if you increase the number of repetitions in the code to 1
 이것은 나의 첫 github작품이다.
 
 This is my first github work.
+
+그냥 재미로 만들었다
+
+I just made it for fun :)
